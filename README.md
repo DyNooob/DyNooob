@@ -1,6 +1,12 @@
 ### Hi there 👋
 #### I am a noob at prog.
 #### Studying now :-)
+
+Welcome to be friends with me !<br>
+Also I hope to get ya e-mail(mine is admin@nooob.top<br>
+<br>
+Have a good day!
+
 <!--
 **Nooob-dy/Nooob-dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
