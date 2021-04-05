@@ -1,12 +1,13 @@
+<!--
 ### Hi there 👋
 #### I am a noob at prog.
 #### Studying now :-)
-
-Welcome to be friends with me !<br>
+-->
+### Hey, welcome here.
+Welcome to be friends with me!<br>
 Also I hope to get ya e-mail(mine is admin@nooob.top<br>
 <br>
-Have a good day!
-
+Have a good day！
 <!--
 **Nooob-dy/Nooob-dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DyNooob&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
