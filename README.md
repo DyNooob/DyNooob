@@ -5,7 +5,8 @@
 -->
 ### Hey, welcome here.
 Welcome to be friends with me!<br>
-Also I hope to get ya e-mail(mine is admin@nooob.top<br>
+My Twitter is @DyNooob<br>
+Also I hope to get your e-mail(mine is i@nooob.top<br>
 <br>
 Have a good day！
 <!--
