@@ -9,6 +9,8 @@ My Twitter is @DyNooob<br>
 Also I hope to get your e-mail(mine is i@nooob.top<br>
 <br>
 Have a good day！
+<br>
+Now I'm studying in HBPA
 <!--
 **Nooob-dy/Nooob-dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
