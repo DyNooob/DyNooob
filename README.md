@@ -1,31 +1,26 @@
-<!--
-### Hi there 👋
-#### I am a noob at prog.
-#### Studying now :-)
--->
-### Hey, welcome here.
-Welcome to be friends with me!<br>
-My Twitter is @DyNooob<br>
-Also I hope to get your e-mail(mine is i@nooob.top<br>
-<br>
-Have a good day！
-<br>
-Now I'm studying in HBPA
-<!--
-**Nooob-dy/Nooob-dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+# 👋 Hello, I'm DyNooob
+### Information Technology Student | Cybersecurity & Digital Forensics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-i@nooob.top-EA4335?style=flat-square&logo=gmail)](mailto:i@digiforensics.cn)
+[![Blog](https://img.shields.io/badge/Blog-loken.cn-0088CC?style=flat-square&logo=firefox)](https://www.loken.cn/)
+[![Digiforensics](https://img.shields.io/badge/Website-digiforensics.cn-0088CC?style=flat-square&logo=firefox)](https://www.digiforensics.cn/)
+[![ForenDev](https://img.shields.io/badge/Website-foren.dev-0088CC?style=flat-square&logo=firefox)](https://www.foren.dev/)
 
 
+</div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DyNooob&theme=dark)](https://www.nooob.top/)
+---
+
+## 🎯 About Me
+- 🎓 Major in Information Technology at HBPA, focusing on network security, digital forensics and full-stack development
+- 🧑‍💼 Department Student Union Presidium member, balancing student affairs and technical research
+- 🛡️ Passionate about Linux operation, network defense and lightweight self-developed tools
+- 🤝 Open to discussions about cybersecurity, CTF, deployment solutions and student work experience
+
+## 🛠️ Tech Stack
+Languages: Python, C++, Go, TS
+Tech: Docker, Digital Forensics, AI
+
+## 📊 GitHub Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DyNooob&theme=dark)](https://www.loken.cn/)
