@@ -1,6 +1,7 @@
-<div align="center">
 # 👋 Hello, I'm DyNooob
 ### Information Technology Student | Cybersecurity & Digital Forensics
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-i@nooob.top-EA4335?style=flat-square&logo=gmail)](mailto:i@digiforensics.cn)
 [![Blog](https://img.shields.io/badge/Blog-loken.cn-0088CC?style=flat-square&logo=firefox)](https://www.loken.cn/)
@@ -19,7 +20,9 @@
 - 🤝 Open to discussions about cybersecurity, CTF, deployment solutions and student work experience
 
 ## 🛠️ Tech Stack
-Languages: Python, C++, Go, TS
+
+Languages: Python, Go, TS
+
 Tech: Docker, Digital Forensics, AI
 
 ## 📊 GitHub Stats
