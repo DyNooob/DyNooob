@@ -1,5 +1,5 @@
 # 👋 Hello, I'm DyNooob
-### Information Technology Student | Cybersecurity & Digital Forensics
+### Cybersecurity & Digital Forensics Student
 
 <div align="center">
 
@@ -14,16 +14,16 @@
 ---
 
 ## 🎯 About Me
-- 🎓 Major in Information Technology at HBPA, focusing on network security, digital forensics and full-stack development
-- 🧑‍💼 Department Student Union Presidium member, balancing student affairs and technical research
+- 🎓 Major in Cybersecurity at HBPA, focusing on digital forensics and full-stack development
+- 🧑‍💼 Team Captain of Darklightning Digital Forensics Lab & Founder of [Digiforensics](https://www.digiforensics.cn/)
 - 🛡️ Passionate about Linux operation, network defense and lightweight self-developed tools
-- 🤝 Open to discussions about cybersecurity, CTF, deployment solutions and student work experience
+- 🤝 Open to discussions about digital forensics, cybersecurity, CTF, deployment solutions and student work experience
 
 ## 🛠️ Tech Stack
 
-Languages: Python, Go, TS
+Languages: Python, Go, TS, Java, ArkTS
 
-Tech: Docker, Digital Forensics, AI
+Tech: Docker, Digital Forensics, AI, CTF
 
 ## 📊 GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DyNooob&theme=dark)](https://www.loken.cn/)
